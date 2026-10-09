@@ -1,0 +1,8 @@
+.venv/
+.throwaway_venv/
+.vscode/
+openvla/
+LIBERO/
+archive/
+__pycache__/
+*.pyc
